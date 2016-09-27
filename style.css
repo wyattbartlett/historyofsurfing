@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hawaiian_with_surfboard_and_Diamond_Head_in_the_background.JPG/1024px-Hawaiian_with_surfboard_and_Diamond_Head_in_the_background.JPG");
+
+  background-size: 100%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: "Fjalla One", serif;
+}
+
+p {
+  font-family: "Average", sans-serif;
+}
